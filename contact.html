@@ -45,8 +45,9 @@
         </div>
         <div class="support-form-box">
             <h3>Quick Repair Inquiry</h3>
-            <!-- Formspree Endpoint or Local JS Alert handler -->
-            <form id="quick-form" action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+            <!-- Web3Forms Integration -->
+            <form id="quick-form" action="https://api.web3forms.com/submit" method="POST">
+                <input type="hidden" name="access_key" value="fcf8752b-a53e-4c26-978b-2d52380d56f5">
                 <input type="text" name="name" placeholder="Your Name" required>
                 <input type="text" name="device" placeholder="Device Type (e.g., iPhone, HP Laptop)" required>
                 <textarea name="message" placeholder="Describe the issue..." rows="3" required></textarea>
