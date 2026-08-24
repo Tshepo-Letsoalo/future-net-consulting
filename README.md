@@ -56,7 +56,7 @@ Built with performance, modern styling, and user experience in mind, the platfor
 ## 🚀 Live Demo
 
 You can explore the live application hosted via Vercel:
-👉 https://www.future-net-consulting.vercel.app
+👉 https://future-net-consulting.vercel.app
 
 ---
 
