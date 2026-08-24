@@ -53,4 +53,4 @@ Developed and maintained by **Tshepo Eugene Letsoalo**
 *BSc Computer Science Student | Cybersecurity & UX Design*
 
 * **Email:** tshepo.eugene.letsoalo@gmail.com
-* **GitHub:** [@Tshepo-Letsoalo](https://github.com/Tshepo-Letsoalo)
+  
